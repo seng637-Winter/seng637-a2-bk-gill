@@ -5,11 +5,11 @@
 | Group #:  18  |  ID |
 | -------------- | --- |
 | Student Names: | ########    |
-| Balkarn Gill   | 30202219    |
+| Balkarn Gill   |             |
 | Taran Bains    | ########    |
-| Satchytan K.   | 30222555    |
-| Chioma         | 30206698    |
-| Hannah         | 30026013    |
+| Satchytan K.   |             |
+| Chioma         |             |
+| Hannah         |             |
 
 # 1 Introduction
 
